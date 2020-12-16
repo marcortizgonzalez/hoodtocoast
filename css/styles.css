@@ -242,7 +242,7 @@
         / Firefox */
     }
     
-    @media screen and (max-device-width:700px) {
+    @media screen and (max-device-width:900px) {
         /* Responsive layout */
         li {
             width: 25%;
@@ -309,12 +309,7 @@
             padding: 0px 20px 0px 0px;
         }
         .two-columnS5 iframe {
-            font-size: 25px;
-            text-align: center;
-            padding: 10px 20px 10px 0px;
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
+            padding: 10px 10px 10px 0px;
         }
         .two-columnS5 {
             width: 100%;
