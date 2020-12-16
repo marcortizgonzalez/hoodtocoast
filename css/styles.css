@@ -115,7 +115,9 @@
         padding: 60px 0px 0px 40px;
     }
     
-    .one-columnS4pad img {}
+    .one-columnS4pad img {
+        padding: 0px 0px 0px 550px;
+    }
     
     .one-columnS4img img {
         padding: 0px 0px 0px 400px;
