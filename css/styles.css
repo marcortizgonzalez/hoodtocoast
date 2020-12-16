@@ -109,16 +109,16 @@
         padding: 40px 0px 0px 40px;
     }
     
-    .one-columnS4 {
-        font-size: 35px;
+    .one-columnS4 h1 {
+        font-size: 65px;
         text-align: center;
-        padding: 30px 0px 0px 30px;
+        padding: 60px 0px 0px 40px;
     }
     
-    .one-columnS4pad {
-        font-size: 25px;
-        text-align: center;
-        padding-bottom: 20px;
+    .one-columnS4pad img {}
+    
+    .one-columnS4img img {
+        padding: 0px 0px 0px 400px;
     }
     
     .two-columnS5 {
@@ -297,10 +297,7 @@
         }
         .one-columnS4 img {
             width: 100%;
-            padding: 10px 25px 20px 0px;
-        }
-        .one-columnS4pad {
-            size: 20%;
+            padding: 10px 50px 20px 20px;
         }
         .two-columnS5 h1 {
             font-size: 65px;
@@ -324,5 +321,11 @@
             font-size: 40px;
             float: left;
             padding: 10px 0px 20px 30px;
+        }
+        .two-columnform {
+            width: 50%;
+            float: left;
+            padding-top: 20px;
+            padding-bottom: 20px;
         }
     }
