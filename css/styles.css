@@ -74,7 +74,7 @@
     }
     
     .one-column h1 {
-        font-size: 75px;
+        font-size: 65px;
         padding: 40px 350px 40px 350px
     }
     
@@ -84,7 +84,7 @@
     
     h4 {
         text-align: center;
-        font-size: 100px;
+        font-size: 65px;
         margin-top: 0px;
         padding: 20px 0px 0px 0px;
     }
@@ -105,17 +105,17 @@
     }
     
     .one-columnS3 h1 {
-        font-size: 75px;
+        font-size: 65px;
         padding: 40px 0px 0px 40px;
     }
     
     .one-columnS4 {
-        font-size: 40px;
+        font-size: 35px;
         text-align: center;
-        padding: 20px 0px 20px 0px;
+        padding: 30px 0px 0px 30px;
     }
     
-    .one-columnS5pad {
+    .one-columnS4pad {
         font-size: 25px;
         text-align: center;
         padding-bottom: 20px;
@@ -129,7 +129,7 @@
     }
     
     .two-columnS5 h1 {
-        font-size: 75px;
+        font-size: 65px;
         padding: 40px 0px 0px 40px;
     }
     
@@ -264,10 +264,11 @@
             text-align: center;
         }
         .one-column h1 {
-            font-size: 75px;
+            font-size: 65px;
             padding: 10% 2% 2% 2%
         }
         .one-column p {
+            width: 100%;
             padding: 2% 2% 2% 2%
         }
         .two-column {
@@ -296,18 +297,19 @@
         }
         .one-columnS4 img {
             width: 100%;
-            padding: 10px 10px 10px 10px;
+            padding: 10px 25px 20px 0px;
         }
-        .one-columnS4 a {
-            font-size: 25px;
+        .one-columnS4pad {
+            size: 20%;
         }
         .two-columnS5 h1 {
-            font-size: 75px;
-            padding: 20px 200px 0px 10px;
+            font-size: 65px;
+            padding: 20px 0px 0px 0px;
         }
         .two-columnS5 h2 {
-            font-size: 20px;
-            padding: 0px 0px 0px 10px;
+            float: left;
+            font-size: 15px;
+            padding: 0px 20px 0px 0px;
         }
         .two-columnS5 iframe {
             font-size: 25px;
