@@ -265,7 +265,7 @@
         }
         .one-column h1 {
             font-size: 65px;
-            padding: 10% 2% 2% 2%
+            padding: 50px 2% 2% 2%
         }
         .one-column p {
             width: 100%;
@@ -297,11 +297,19 @@
         }
         .one-columnS4 img {
             width: 100%;
-            padding: 10px 50px 20px 20px;
+            padding: 10px 20px 20px 20px;
+        }
+        .one-columnS4 h1 {
+            font-size: 65px;
+            float: left;
+            padding: 40px 60px 0px 20px;
+        }
+        .one-columnS4pad img {
+            width: 50%;
         }
         .two-columnS5 h1 {
             font-size: 65px;
-            padding: 20px 0px 0px 0px;
+            padding: 20px 50px 0px 0px;
         }
         .two-columnS5 h2 {
             float: left;
